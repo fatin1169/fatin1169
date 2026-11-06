@@ -1,68 +1,71 @@
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=fatin1169&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F284832861%3Fv%3D4" alt="fatin1169 hero visual" />
-</p>
+<div align="center">
 
-<p align="center"><b>UMI FATIN BINTI MOHAMMAD AFFANDI</b> · Frontend or full-stack engineer<br/><sub>Computer Science Student</sub></p>
+<img src="./assets/header.svg" alt="Umi Fatin binti Mohammad Affandi, Computer Science Student" width="100%" />
 
-<p align="center"><a href="https://github.com/fatin1169">GitHub</a></p>
+</div>
 
-<details open>
-<summary><b>📌 Top projects</b></summary>
-<br/>
+## The city I built this year
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/projects?username=fatin1169&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F284832861%3Fv%3D4" alt="fatin1169 projects visual" />
-</p>
+<div align="center">
 
-- [campus-event-registration](https://github.com/fatin1169/campus-event-registration) · ★ 0
-- [UmiFatin](https://github.com/fatin1169/UmiFatin) · ★ 0
-- [photobooth](https://github.com/fatin1169/photobooth) · ★ 0
-- [sign](https://github.com/fatin1169/sign) · ★ 0
-- [portfolio](https://github.com/fatin1169/portfolio) · ★ 0
-- [buddyApp](https://github.com/fatin1169/buddyApp) · ★ 0
+<img src="./profile-3d-contrib/profile-night-green.svg" alt="3D contribution city for @fatin1169" width="100%" />
 
-</details>
+<sub>Every building is a day; taller means more contributions.</sub>
 
-<details>
-<summary><b>🧰 Stack</b></summary>
-<br/>
+</div>
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=fatin1169&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F284832861%3Fv%3D4" alt="fatin1169 stack visual" />
-</p>
+## Population
 
-</details>
+<div align="center">
 
-<details>
-<summary><b>📊 By the numbers</b></summary>
-<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=fatin1169&show_icons=true&hide_rank=true&include_all_commits=true&custom_title=Profile%20Signal&bg_color=0b2a2b&title_color=2dd4bf&text_color=d1fae5&icon_color=5eead4&border_color=115e59&border_radius=14" alt="Profile Signal: GitHub stats" />
 
-<b>6</b> public repositories, <b>0</b> stars, <b>20</b> contributions in the last year, a longest streak of <b>1</b> days and <b>0</b> followers.
+<br />
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=fatin1169&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F284832861%3Fv%3D4" alt="fatin1169 stats visual" />
-</p>
+<img src="https://img.shields.io/github/followers/fatin1169?label=Followers&style=for-the-badge&labelColor=06181b&color=14b8a6" alt="Followers" />
+<img src="https://komarev.com/ghpvc/?username=fatin1169&label=Profile%20views&style=for-the-badge&labelColor=06181b&color=14b8a6" alt="Profile views" />
 
-</details>
+</div>
 
-<details>
-<summary><b>🟩 Activity</b></summary>
-<br/>
+## Landmarks
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=fatin1169&theme=neon" alt="fatin1169 contribution activity" />
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/fatin1169/campus-event-registration">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fatin1169&repo=campus-event-registration&bg_color=0b2a2b&title_color=2dd4bf&text_color=d1fae5&icon_color=5eead4&border_color=115e59&border_radius=14" alt="campus-event-registration" width="100%" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/fatin1169/UmiFatin">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fatin1169&repo=UmiFatin&bg_color=0b2a2b&title_color=2dd4bf&text_color=d1fae5&icon_color=5eead4&border_color=115e59&border_radius=14" alt="UmiFatin" width="100%" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/fatin1169/photobooth">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fatin1169&repo=photobooth&bg_color=0b2a2b&title_color=2dd4bf&text_color=d1fae5&icon_color=5eead4&border_color=115e59&border_radius=14" alt="photobooth" width="100%" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/fatin1169/sign">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fatin1169&repo=sign&bg_color=0b2a2b&title_color=2dd4bf&text_color=d1fae5&icon_color=5eead4&border_color=115e59&border_radius=14" alt="sign" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-</details>
+## Visit
 
-<details>
-<summary><b>👋 Say hello</b></summary>
-<br/>
+<div align="center">
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=fatin1169&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F284832861%3Fv%3D4" alt="fatin1169 social visual" />
-</p>
+<a href="https://github.com/fatin1169">
+  <img src="https://img.shields.io/badge/GitHub-%40fatin1169-14b8a6?style=for-the-badge&logo=github&logoColor=white&labelColor=06181b" alt="GitHub @fatin1169" />
+</a>
 
-</details>
+<br /><br />
 
-<p align="center"><sub>UMI FATIN BINTI MOHAMMAD AFFANDI · Everything hub generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<sub>Umi Fatin binti Mohammad Affandi · Contribution city generated with <a href="https://github.com/yoshi389111/github-profile-3d-contrib">github-profile-3d-contrib</a> (MIT)</sub>
+
+</div>
