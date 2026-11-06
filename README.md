@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" alt="Umi Fatin binti Mohammad Affandi, Computer Science Student" width="100%" />
+<img src="assets/header.svg" alt="Umi Fatin binti Mohammad Affandi, Computer Science Student" width="100%" />
 
 </div>
 
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="./profile-3d-contrib/profile-night-green.svg" alt="3D contribution city for @fatin1169" width="100%" />
+<img src="profile-3d-contrib/profile-night-green.svg" alt="3D contribution city for @fatin1169" width="100%" />
 
 <sub>Every building is a day; taller means more contributions.</sub>
 
@@ -18,10 +18,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=fatin1169&show_icons=true&hide_rank=true&include_all_commits=true&custom_title=Profile%20Signal&bg_color=0b2a2b&title_color=2dd4bf&text_color=d1fae5&icon_color=5eead4&border_color=115e59&border_radius=14" alt="Profile Signal: GitHub stats" />
-
-<br />
-
 <img src="https://img.shields.io/github/followers/fatin1169?label=Followers&style=for-the-badge&labelColor=06181b&color=14b8a6" alt="Followers" />
 <img src="https://komarev.com/ghpvc/?username=fatin1169&label=Profile%20views&style=for-the-badge&labelColor=06181b&color=14b8a6" alt="Profile views" />
 
@@ -29,32 +25,16 @@
 
 ## Landmarks
 
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/fatin1169/campus-event-registration">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fatin1169&repo=campus-event-registration&bg_color=0b2a2b&title_color=2dd4bf&text_color=d1fae5&icon_color=5eead4&border_color=115e59&border_radius=14" alt="campus-event-registration" width="100%" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/fatin1169/UmiFatin">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fatin1169&repo=UmiFatin&bg_color=0b2a2b&title_color=2dd4bf&text_color=d1fae5&icon_color=5eead4&border_color=115e59&border_radius=14" alt="UmiFatin" width="100%" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/fatin1169/photobooth">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fatin1169&repo=photobooth&bg_color=0b2a2b&title_color=2dd4bf&text_color=d1fae5&icon_color=5eead4&border_color=115e59&border_radius=14" alt="photobooth" width="100%" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/fatin1169/sign">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fatin1169&repo=sign&bg_color=0b2a2b&title_color=2dd4bf&text_color=d1fae5&icon_color=5eead4&border_color=115e59&border_radius=14" alt="sign" width="100%" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+### 🚀 Featured Projects
+
+📌 [💻 campus-event-registration](https://github.com/fatin1169/campus-event-registration) — Event booking dashboard structure.
+📌 [ℹ️ UmiFatin](https://github.com/fatin1169/UmiFatin) — Personal academic portfolio mapping.
+📌 [📸 photobooth](https://github.com/fatin1169/photobooth) — Frontend photo web app deployment.
+📌 [🪧 sign](https://github.com/fatin1169/sign) — Custom signature panel project layout.
+
+</div>
 
 ## Visit
 
